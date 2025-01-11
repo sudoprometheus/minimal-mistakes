@@ -5,4 +5,8 @@ layout: single
 author_profile: true
 ---
 
-this is the about page
+Hi I am Prometheus, I am a cybersecurity researcher who likes pawning machines and ripping binaries.
+
+### About the blog
+
+Twitter isn't working so this will have to do.
