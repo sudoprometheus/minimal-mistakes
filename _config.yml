@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Prometheus"
-  avatar           : "/assets/images/logo.png"
+  avatar           : "/assets/images/gas.png"
   bio              : "[CyberSecurity Researcher] Pawning, Ripping Binaries and Malware analysis is the name of the game."
   location         : "Earth"
   email            :
