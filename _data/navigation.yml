@@ -3,5 +3,8 @@ main:
   - title: "Pawns"
     url: /pawns/
   - title: "About"
-    url: /about/
+    url: /about/ 
+  - title: "Categories"
+    url: /categories/
+
   
