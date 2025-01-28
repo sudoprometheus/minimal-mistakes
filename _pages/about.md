@@ -9,4 +9,4 @@ Hi I am Prometheus, I am a cybersecurity researcher who likes pawning machines a
 
 ### About the blog
 
-Twitter isn't working so this will have to do.
+It's a blog.
